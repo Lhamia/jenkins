@@ -10,7 +10,7 @@ public class Main {
 		
         // no entiendo nada
 		
-System.out.println("alooshglsk`jdhoooooooooooo?");	}
+System.out.println("alooshglsk`joppokjkashpldklfjhlgklaslkdkljhlfkadhoooooooooooo?");	}
 	
 	
 	
